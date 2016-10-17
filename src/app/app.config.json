@@ -1,0 +1,14 @@
+{
+	"appname": "Testing Seller",
+	"scope": "BuyerAdmin BuyerReader FullAccess",
+	"clientid": "1FFA65DE-29CF-4296-A7A9-94054EFCD46E",
+	"buyerid": null,
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
